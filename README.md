@@ -1,3 +1,18 @@
+Covid19- Tracker
+Add dependencies
+1. "@material-ui/core"
+2. "chart.js"
+3. "react-chartjs-2"
+
+# deploy with firebase 
+1. npm run build
+2. npm install -g firebase-tools
+3. firebase login
+4. firebase init
+5. Specify the build that we created , to be used as your project's public directory.
+6. firebase deploy
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
