@@ -1,5 +1,6 @@
-Covid19- Tracker
+# Covid19- Tracker
 Add dependencies
+
 1. "@material-ui/core"
 2. "chart.js"
 3. "react-chartjs-2"
